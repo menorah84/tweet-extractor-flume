@@ -1,3 +1,4 @@
+package org.menorah84;
 
 import org.apache.flume.Context;
 

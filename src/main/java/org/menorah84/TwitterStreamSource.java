@@ -1,3 +1,4 @@
+package org.menorah84;
 
 import java.util.HashMap;
 import java.util.Map;

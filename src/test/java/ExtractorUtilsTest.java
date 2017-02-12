@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import twitter4j.Query;
 
-// import InvalidTwitterKeywordException;
+import org.menorah84.InvalidTwitterKeywordException;
 
 public class ExtractorUtilsTest {
 	

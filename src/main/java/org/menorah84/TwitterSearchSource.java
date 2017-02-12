@@ -1,3 +1,5 @@
+package org.menorah84;
+
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -19,10 +21,6 @@ import twitter4j.Status;
 import twitter4j.Twitter;
 import twitter4j.TwitterException;
 import twitter4j.TwitterObjectFactory;
-
-import Constants;
-import ExtractorUtils;
-import InvalidTwitterKeywordException;
 
 public class TwitterSearchSource extends AbstractSource 
 	implements EventDrivenSource, Configurable {

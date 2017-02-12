@@ -1,3 +1,4 @@
+package org.menorah84;
 
 public class InvalidTwitterKeywordException extends Exception {
 	
